@@ -1,7 +1,7 @@
 esterOS 24
 
 INSERT IMAGE HERE USING THIS FORMAT
-![Logo](mtkclient/gui/images/logo_256.png)
+![Logo](catteros banner two.png)
  
 ===========
 
