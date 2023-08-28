@@ -1,6 +1,5 @@
-esterOS 24
+esterOS w OriginUi 13
 
-INSERT IMAGE HERE USING THIS FORMAT
 ![Logo](banner.png)
  
 ===========
