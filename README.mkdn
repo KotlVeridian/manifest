@@ -1,7 +1,7 @@
 esterOS 24
 
 INSERT IMAGE HERE USING THIS FORMAT
-![Logo](catteros banner two.png)
+![Logo](manifest/catteros banner two.png)
  
 ===========
 
