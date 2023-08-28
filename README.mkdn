@@ -1,4 +1,3 @@
-esterOS w OriginUi 13
 
 ![Logo](banner.png)
  
