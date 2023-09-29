@@ -1,4 +1,4 @@
-kotlOS woth RoseUI 69
+esterOS (Hewlett's version) with OriginUI 13 (Hewlett's version)
 ===========
 
  
@@ -7,9 +7,9 @@ kotlOS woth RoseUI 69
 Getting started
 ---------------
 
-To get started with kotlOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with esterOS (Hewlett's version), you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
-To initialize your local repository using the kotlOS trees, use a command like this:
+To initialize your local repository using the esterOS (Hewlett's version) trees, use a command like this:
 ```
 repo init -u https://github.com/KotlVeridian/manifest.git -b esteros-24-los20 --git-lfs
 ```
